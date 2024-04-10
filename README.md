@@ -2,5 +2,5 @@
 
 ## Результат вы можете посмотреть тут 
 
-[Сайт Аккорд](https://efremovva.github.io/Anton/)
+[Сайт Аккорд](https://efremovva.github.io/Akkord/)
 
